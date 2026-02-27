@@ -1,15 +1,13 @@
 <img align="right" src="https://github.com/lleitedev/lleitedev/blob/main/code1.png" width="300"/>
 
-# Hey, I'm Lucas 👋
+# Hey, I'm Lucas.
 
 **Software Engineer** @ Grupo Barigui  
 Building scalable microservices and APIs for **100+ stores** ecosystem
 
-📍 Curitiba, Brazil | Open to remote/hybrid opportunities
-
 ---
 
-## 🛠️ Stack
+## Stack
 
 **Backend**  
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=white)
@@ -42,7 +40,7 @@ Building scalable microservices and APIs for **100+ stores** ecosystem
 
 ---
 
-## 🎯 Currently Working On
+##  Currently Working On
 
 - Microservices architecture with **RabbitMQ/Kafka** messaging
 - REST APIs and GraphQL endpoints in **Node.js** and **.NET 6+**
@@ -52,7 +50,7 @@ Building scalable microservices and APIs for **100+ stores** ecosystem
 
 ---
 
-## 📊 Stats
+## Stats
 
 <div align="center">
   
@@ -65,7 +63,7 @@ Building scalable microservices and APIs for **100+ stores** ecosystem
 
 ---
 
-## 📬 Let's Connect
+## Let's Connect
 
 Backend engineer focused on modern architecture, messaging systems, and scalable solutions. Always open to discussing technology, collaboration, and new opportunities.
 
