@@ -54,19 +54,19 @@
 
 ## Contribuições no GitHub
 
-Mapa de atividade no mesmo estilo do calendário do perfil (commits, issues e PRs públicos).
+Histórico de contribuições no último ano (commits / issues / PRs públicos), em SVG compatível com o README do GitHub.
 
 <p align="center">
   <a href="https://github.com/lukemilk">
     <img
-      src="https://jandi.firejune.io/lukemilk?scheme=dark&radius=2&margin=3"
-      alt="Calendário de contribuições GitHub de lukemilk"
+      src="https://ghchart.rshah.org/39d353/lukemilk"
+      alt="Gráfico de contribuições GitHub de lukemilk"
       width="100%"
     />
   </a>
 </p>
 
-<sub>Via <a href="https://github.com/firejune/jandi">Jandi</a> — grade anual tipo GitHub, tema escuro.</sub>
+<sub>Via <a href="https://github.com/2016rshah/githubchart-api">GitHub Chart API</a> — entrega <code>image/svg+xml</code> (o serviço Jandi responde como HTML, e o GitHub não renderiza isso como imagem).</sub>
 
 ---
 
