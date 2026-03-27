@@ -54,19 +54,25 @@
 
 ## Contribuições no GitHub
 
-Histórico de contribuições no último ano (commits / issues / PRs públicos), em SVG compatível com o README do GitHub.
-
 <p align="center">
   <a href="https://github.com/lukemilk">
     <img
-      src="https://ghchart.rshah.org/39d353/lukemilk"
-      alt="Gráfico de contribuições GitHub de lukemilk"
-      width="100%"
+      src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Flukemilk%3Fy%3Dlast&query=%24.total.lastYear&label=contributions%20in%20the%20last%20year&logo=github&labelColor=21262d&color=238636&logoColor=white"
+      alt="Total de contribuições no último ano (GitHub)"
     />
   </a>
 </p>
 
-<sub>Via <a href="https://github.com/2016rshah/githubchart-api">GitHub Chart API</a> — entrega <code>image/svg+xml</code> (o serviço Jandi responde como HTML, e o GitHub não renderiza isso como imagem).</sub>
+<p align="center">
+  <a href="https://github.com/lukemilk">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=lukemilk&theme=github-compact&hide_border=true&bg_color=0d1117&color=8b949e&line=39d353&point=39d353&area=true&height=280&custom_title=Recent%20public%20activity"
+      alt="Gráfico de atividade recente no GitHub"
+    />
+  </a>
+</p>
+
+<sub>O número do ano é o mesmo do gráfico do perfil (API <a href="https://github.com/grubersjoe/github-contributions-api">github-contributions-api</a>). O gráfico abaixo mostra a atividade recente em SVG (<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">github-readme-activity-graph</a>).</sub>
 
 ---
 
