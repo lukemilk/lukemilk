@@ -51,17 +51,21 @@
 
 ---
 
-## Atividade recente — commits
+## Contribuições no GitHub
 
-*Atualizado automaticamente a partir dos seus pushes públicos no GitHub.*
+Mapa de atividade no mesmo estilo do calendário do perfil (commits, issues e PRs públicos).
 
-<!--BEGIN:commits-->
-| Hash | Repositório | Mensagem |
-|------|-------------|----------|
-| *Carregando…* | — | O workflow preencherá esta tabela no próximo run. |
-<!--END:commits-->
+<p align="center">
+  <a href="https://github.com/lukemilk">
+    <img
+      src="https://jandi.firejune.io/lukemilk?scheme=dark&radius=2&margin=3"
+      alt="Calendário de contribuições GitHub de lukemilk"
+      width="100%"
+    />
+  </a>
+</p>
 
-<sub>Só aparecem commits em repositórios **públicos**. Commits privados não entram na API pública de eventos.</sub>
+<sub>Via <a href="https://github.com/firejune/jandi">Jandi</a> — grade anual tipo GitHub, tema escuro.</sub>
 
 ---
 
@@ -69,10 +73,21 @@
 
 <div align="center">
 
-<img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lukemilk&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&include_all_commits=true" />
-<img height="180" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukemilk&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+<img
+  width="49%"
+  alt="GitHub Stats"
+  src="https://github-readme-stats.vercel.app/api?username=lukemilk&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&include_all_commits=true&cache_seconds=86400"
+/>
+<img
+  width="49%"
+  alt="Top Languages"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukemilk&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&cache_seconds=86400"
+/>
 
-<img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=lukemilk&theme=github-dark&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" />
+<img
+  alt="GitHub Streak"
+  src="https://streak-stats.demolab.com/?user=lukemilk&theme=github-dark&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E"
+/>
 
 </div>
 
