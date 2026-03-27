@@ -14,31 +14,32 @@
 ## Stack
 
 **Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-30363d?style=for-the-badge&logo=node.js&logoColor=339933)
-![TypeScript](https://img.shields.io/badge/TypeScript-30363d?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![.NET](https://img.shields.io/badge/.NET-30363d?style=for-the-badge&logo=dotnet&logoColor=512BD4)
-![C#](https://img.shields.io/badge/C%23-30363d?style=for-the-badge&logo=c-sharp&logoColor=239120)
-![NestJS](https://img.shields.io/badge/NestJS-30363d?style=for-the-badge&logo=nestjs&logoColor=E0234E)
-![GraphQL](https://img.shields.io/badge/GraphQL-30363d?style=for-the-badge&logo=graphql&logoColor=E10098)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-30363d?style=for-the-badge&logo=rabbitmq&logoColor=FF6600)
-![Express](https://img.shields.io/badge/Express-30363d?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-000000?style=flat-square&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-000000?style=flat-square&logo=c-sharp&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-000000?style=flat-square&logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-000000?style=flat-square&logo=graphql&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-000000?style=flat-square&logo=rabbitmq&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
 **Infra & DevOps**  
-![Docker](https://img.shields.io/badge/Docker-30363d?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Azure](https://img.shields.io/badge/Azure-30363d?style=for-the-badge&logo=microsoft-azure&logoColor=0078D4)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-30363d?style=for-the-badge&logo=github-actions&logoColor=2088FF)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-30363d?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-000000?style=flat-square&logo=microsoft-azure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-000000?style=flat-square&logo=github-actions&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=flat-square&logo=kubernetes&logoColor=white)
 
 **Database**  
-![SQL Server](https://img.shields.io/badge/SQL_Server-30363d?style=for-the-badge&logo=microsoft-sql-server&logoColor=CC2927)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-30363d?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![MySQL](https://img.shields.io/badge/MySQL-30363d?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Prisma](https://img.shields.io/badge/Prisma-30363d?style=for-the-badge&logo=prisma&logoColor=2D3748)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-000000?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-000000?style=flat-square&logo=prisma&logoColor=white)
 
 **Frontend**  
-![React](https://img.shields.io/badge/React-30363d?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-30363d?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-30363d?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-000000?style=flat-square&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
 
 ---
 
